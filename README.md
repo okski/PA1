@@ -1,1 +1,1 @@
-# Programovací úkoly
+# Programovací úkoly v C
